@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CharacterCounter/CharacterCounter.iml" filepath="$PROJECT_DIR$/CharacterCounter/CharacterCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FellsWargo/FellsWargo.iml" filepath="$PROJECT_DIR$/FellsWargo/FellsWargo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloReact/HelloReact.iml" filepath="$PROJECT_DIR$/HelloReact/HelloReact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Huffman/Huffman.iml" filepath="$PROJECT_DIR$/Huffman/Huffman.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_Workspace.iml" filepath="$PROJECT_DIR$/Kotlin_Workspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparkTutorial/SparkTutorial.iml" filepath="$PROJECT_DIR$/SparkTutorial/SparkTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-playground/react-playground.iml" filepath="$PROJECT_DIR$/react-playground/react-playground.iml" />
     </modules>
   </component>
 </project>
